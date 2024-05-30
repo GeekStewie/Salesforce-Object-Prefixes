@@ -7487,8 +7487,96 @@
         "label": "Lead",
         "name": "ssot__Lead__dlm"
     },
-    "04t": {
-        "label": "Package",
-        "name": "Package"
+    "0T8": {
+        "label": "Bot Analytics",
+        "name": "BotAnalytics"
+    },
+    "0uK": {
+        "label": "Broadcast Topic",
+        "name": "BroadcastTopic"
+    },
+    "0uL": {
+        "label": "Broadcast Topic Collaboration Room",
+        "name": "BroadcastTopicCollabRoom"
+    },
+    "0uM": {
+        "label": "Broadcast Topic User Role",
+        "name": "BroadcastTopicUserRole"
+    },
+    "3NA": {
+        "label": "Custom Object Usage By User License Metric",
+        "name": "CustomObjectUserLicenseMetrics"
+    },
+    "0zU": {
+        "label": "Product Related Service Process",
+        "name": "ProductRelatedServiceProcess"
+    },
+    "10A": {
+        "label": "Slack Application Conversation Event",
+        "name": "SlackAppConversationEvent"
+    },
+    "5rD": {
+        "label": "Service Catalog Category",
+        "name": "SvcCatalogCategory"
+    },
+    "8cd": {
+        "label": "Service Catalog Category Item",
+        "name": "SvcCatalogCategoryItem"
+    },
+    "5JB": {
+        "label": "Service Catalog Fulfillment Flow Item",
+        "name": "SvcCatalogFulfillFlowItem"
+    },
+    "3VT": {
+        "label": "Service Catalog Fulfillment Flow",
+        "name": "SvcCatalogFulfillmentFlow"
+    },
+    "7Fj": {
+        "label": "Service Catalog Item Attribute",
+        "name": "SvcCatalogItemAttribute"
+    },
+    "0j2": {
+        "label": "Service Catalog Item Definition",
+        "name": "SvcCatalogItemDef"
+    },
+    "12p": {
+        "label": "Service Catalog Item Group",
+        "name": "SvcCatalogItemGroup"
+    },
+    "9kS": {
+        "label": "Service Catalog Request Related Item",
+        "name": "SvcCatalogReqRelatedItem"
+    },
+    "946": {
+        "label": "Service Catalog Request",
+        "name": "SvcCatalogRequest"
+    },
+    "9aC": {
+        "label": "Analysis",
+        "name": "Analysis"
+    },
+    "1D0": {
+        "label": "Data Kit Deployment Log",
+        "name": "DataKitDeploymentLog"
+    },
+    "h00": {
+        "label": "Forecasting Item (Historical)",
+        "name": "ForecastingItem__hd"
+    },
+    "h01": {
+        "label": "Opportunity (Historical)",
+        "name": "Opportunity__hd"
+    },
+    "0R3": {
+        "label": "Visualization Plug-in",
+        "name": "VisualizationPlugin"
+    },
+    "0R5": {
+        "label": "Visualization Resource",
+        "name": "VisualizationResource"
+    },
+    "0R4": {
+        "label": "Visualization Type",
+        "name": "VisualizationType"
     }
 }
