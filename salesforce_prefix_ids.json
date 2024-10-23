@@ -80,8 +80,8 @@
         "name": "AccountOwnerSharingRule"
     },
     "00I": {
-        "label": "Partner",
-        "name": "Partner"
+        "label": "Account Partner",
+        "name": "AccountPartner"
     },
     "0yB": {
         "label": "Account Product Forecast",
@@ -110,38 +110,6 @@
     "0Vl": {
         "label": "Accreditation",
         "name": "Accreditation"
-    },
-    "77C": {
-        "label": "Cadence",
-        "name": "ActionCadence"
-    },
-    "1J9": {
-        "label": "Cadence Rule",
-        "name": "ActionCadenceRule"
-    },
-    "0uA": {
-        "label": "Cadence Rule Condition",
-        "name": "ActionCadenceRuleCondition"
-    },
-    "8C8": {
-        "label": "Cadence Step",
-        "name": "ActionCadenceStep"
-    },
-    "8HF": {
-        "label": "Cadence Step Tracker",
-        "name": "ActionCadenceStepTracker"
-    },
-    "0mJ": {
-        "label": "Cadence Step Variant",
-        "name": "ActionCadenceStepVariant"
-    },
-    "0qB": {
-        "label": "Cadence Tracker",
-        "name": "ActionCadenceTracker"
-    },
-    "0gk": {
-        "label": "Cadence Step Monthly Metric",
-        "name": "ActionCdncStpMonthlyMetric"
     },
     "07g": {
         "label": "Action Link Group Template",
@@ -223,17 +191,9 @@
         "label": "Activity Field History",
         "name": "ActivityFieldHistory"
     },
-    "0Gq": {
-        "label": "Score Intelligence",
-        "name": "ScoreIntelligence"
-    },
     "1CD": {
         "label": "Activity Timing",
         "name": "ActivityTiming"
-    },
-    "1fm": {
-        "label": "Activity User Connection Status",
-        "name": "ActivityUsrConnectionStatus"
     },
     "3q9": {
         "label": "Activation Target Platform Field Value",
@@ -312,7 +272,7 @@
         "name": "AgentWorkSkill"
     },
     "6D8": {
-        "label": "AiExternalModelReference",
+        "label": "AI External Model Reference",
         "name": "AiExternalModelReference"
     },
     "8mz": {
@@ -471,9 +431,21 @@
         "label": "Application Usage Assignment",
         "name": "AppUsageAssignment"
     },
+    "13Y": {
+        "label": "Applicant",
+        "name": "Applicant"
+    },
     "0jm": {
         "label": "Application Case",
         "name": "ApplicationCase"
+    },
+    "13X": {
+        "label": "Application Form",
+        "name": "ApplicationForm"
+    },
+    "13Z": {
+        "label": "Application Form Product",
+        "name": "ApplicationFormProduct"
     },
     "0tV": {
         "label": "Application Subtype Definition",
@@ -547,6 +519,10 @@
         "label": "Assigned Resource Appointment Scheduling Event",
         "name": "AsgnRsrcApptSchdEvent"
     },
+    "0z5": {
+        "label": "Assessment Indicator Defined Value",
+        "name": "AssessmentIndDefinedValue"
+    },
     "0eu": {
         "label": "Assessment Indicator Definition",
         "name": "AssessmentIndicatorDefinition"
@@ -575,6 +551,10 @@
         "label": "Asset",
         "name": "Asset"
     },
+    "4W8": {
+        "label": "Asset Account Participant",
+        "name": "AssetAccountParticipant"
+    },
     "4nL": {
         "label": "Asset Action",
         "name": "AssetAction"
@@ -586,6 +566,10 @@
     "0oV": {
         "label": "Asset Attribute",
         "name": "AssetAttribute"
+    },
+    "4W9": {
+        "label": "Asset Contact Participant",
+        "name": "AssetContactParticipant"
     },
     "0gP": {
         "label": "Asset Downtime Period",
@@ -606,10 +590,6 @@
     "4nK": {
         "label": "Asset State Period",
         "name": "AssetStatePeriod"
-    },
-    "14Z": {
-        "label": "Asset State Period Attribute",
-        "name": "AssetStatePeriodAttribute"
     },
     "0Li": {
         "label": "Asset Token Event",
@@ -692,11 +672,11 @@
         "name": "AuraDefinitionBundle"
     },
     "0ab": {
-        "label": "AuraDefinitionBundle Info",
+        "label": "Aura Definition Bundle Info",
         "name": "AuraDefinitionBundleInfo"
     },
     "0ad": {
-        "label": "AuraDefinition Info",
+        "label": "Aura Definition Info",
         "name": "AuraDefinitionInfo"
     },
     "07T": {
@@ -843,6 +823,10 @@
         "label": "Board Certification",
         "name": "BoardCertification"
     },
+    "0T8": {
+        "label": "Bot Analytics",
+        "name": "BotAnalytics"
+    },
     "0Xx": {
         "label": "Bot",
         "name": "BotDefinition"
@@ -878,6 +862,18 @@
     "1rZ": {
         "label": "Briefcase Rule Filter",
         "name": "BriefcaseRuleFilter"
+    },
+    "0uK": {
+        "label": "Broadcast Topic",
+        "name": "BroadcastTopic"
+    },
+    "0uL": {
+        "label": "Broadcast Topic Collaboration Room",
+        "name": "BroadcastTopicCollabRoom"
+    },
+    "0uM": {
+        "label": "Broadcast Topic User Role",
+        "name": "BroadcastTopicUserRole"
     },
     "0s2": {
         "label": "Bundled Care Fee Agreement",
@@ -1035,25 +1031,9 @@
         "label": "CallCoachingMediaProvider",
         "name": "CallCoachingMediaProvider"
     },
-    "0dN": {
-        "label": "CallDisposition",
-        "name": "CallDisposition"
-    },
-    "0dO": {
-        "label": "CallDispositionCategory",
-        "name": "CallDispositionCategory"
-    },
     "0mp": {
         "label": "CallRecordingGeoRestriction",
         "name": "CallRecordingGeoRestriction"
-    },
-    "0hC": {
-        "label": "Call Script Monthly Metric",
-        "name": "CallScriptMonthlyMetric"
-    },
-    "0Wu": {
-        "label": "Call Script",
-        "name": "CallTemplate"
     },
     "701": {
         "label": "Campaign",
@@ -1295,10 +1275,6 @@
         "label": "Cart Delivery Group Method",
         "name": "CartDeliveryGroupMethod"
     },
-    "17W": {
-        "label": "Cart Delivery Group Method Adjustment",
-        "name": "CartDeliveryGroupMethodAdj"
-    },
     "0a9": {
         "label": "Cart Item",
         "name": "CartItem"
@@ -1328,8 +1304,8 @@
         "name": "CaseArticle"
     },
     "00a": {
-        "label": "Idea Comment",
-        "name": "IdeaComment"
+        "label": "Case Comment",
+        "name": "CaseComment"
     },
     "03j": {
         "label": "Case Contact Role",
@@ -1354,6 +1330,10 @@
     "01y": {
         "label": "Case Owner Rule",
         "name": "CaseOwnerSharingRule"
+    },
+    "1ca": {
+        "label": "Case Participant",
+        "name": "CaseParticipant"
     },
     "0oL": {
         "label": "Case Related Issue",
@@ -1395,6 +1375,10 @@
         "label": "Change Request Related Item",
         "name": "ChangeRequestRelatedItem"
     },
+    "0dl": {
+        "label": "Channel Object Linking Rule",
+        "name": "ChannelObjectLinkingRule"
+    },
     "0Pk": {
         "label": "Channel Program",
         "name": "ChannelProgram"
@@ -1406,6 +1390,10 @@
     "0Pm": {
         "label": "Channel Program Member",
         "name": "ChannelProgramMember"
+    },
+    "8JY": {
+        "label": "Chat Retirement Readiness Metrics",
+        "name": "ChatRetirementRdyMetrics"
     },
     "0ca": {
         "label": "Chatter Activity",
@@ -1555,10 +1543,6 @@
         "label": "Communication Subscription Timing",
         "name": "CommSubscriptionTiming"
     },
-    "0nB": {
-        "label": "Commerce Configuration Related Record",
-        "name": "CommerceConfigRelatedRecord"
-    },
     "0gs": {
         "label": "Commerce Diagnostic Event",
         "name": "CommerceDiagnosticEvent"
@@ -1599,10 +1583,6 @@
         "label": "Connected App",
         "name": "ConnectedApplication"
     },
-    "12A": {
-        "label": "Consent Unsubscribe All Event",
-        "name": "ConsentUnsubscribeAllEvent"
-    },
     "12m": {
         "label": "Consent Unsubscribe Event",
         "name": "ConsentUnsubscribeEvent"
@@ -1619,13 +1599,13 @@
         "label": "Contact",
         "name": "Contact"
     },
+    "8GU": {
+        "label": "Contact Center Channel",
+        "name": "ContactCenterChannel"
+    },
     "1CC": {
         "label": "Contact Clean Info",
         "name": "ContactCleanInfo"
-    },
-    "0mO": {
-        "label": "Contact Daily Metric",
-        "name": "ContactDailyMetric"
     },
     "0ha": {
         "label": "Contact Encounter",
@@ -1634,10 +1614,6 @@
     "0hb": {
         "label": "Contact Encounter Participant",
         "name": "ContactEncounterParticipant"
-    },
-    "0mL": {
-        "label": "Contact Monthly Metric",
-        "name": "ContactMonthlyMetric"
     },
     "03D": {
         "label": "Contact Owner Rule",
@@ -1692,8 +1668,8 @@
         "name": "ContentDistributionView"
     },
     "069": {
-        "label": "Note",
-        "name": "ContentNote"
+        "label": "Content Document",
+        "name": "ContentDocument"
     },
     "06A": {
         "label": "Content Document Link",
@@ -1724,8 +1700,8 @@
         "name": "ContentHubItem"
     },
     "0XC": {
-        "label": "External Data Source",
-        "name": "ExternalDataSource"
+        "label": "Files Connect repository",
+        "name": "ContentHubRepository"
     },
     "05V": {
         "label": "Content Notification",
@@ -1819,13 +1795,21 @@
         "label": "Conversation Definition Session Metric",
         "name": "ConvDefSessionMetric"
     },
-    "1sr": {
-        "label": "Conversation Message Send Request",
-        "name": "ConvMessageSendRequest"
+    "5d3": {
+        "label": "Conversation Intelligence Signal Rule",
+        "name": "ConvIntelligenceSignalRule"
+    },
+    "8Q2": {
+        "label": "Conversation Intelligence Signal Sub-Rule",
+        "name": "ConvIntelligenceSignalSubRule"
     },
     "0dw": {
         "label": "Conversation",
         "name": "Conversation"
+    },
+    "11v": {
+        "label": "Conversation Channel Definition",
+        "name": "ConversationChannelDefinition"
     },
     "9qD": {
         "label": "Conversation Channel Response",
@@ -1939,10 +1923,6 @@
         "label": "Trusted URL",
         "name": "CspTrustedSite"
     },
-    "19F": {
-        "label": "CSP Violation",
-        "name": "CspViolation"
-    },
     "01L": {
         "label": "Currency Type",
         "name": "CurrencyType"
@@ -1970,6 +1950,10 @@
     "0ML": {
         "label": "Custom Notification Type",
         "name": "CustomNotificationType"
+    },
+    "3NA": {
+        "label": "Custom Object Usage By User License Metric",
+        "name": "CustomObjectUserLicenseMetrics"
     },
     "0CP": {
         "label": "Custom Permission",
@@ -2008,7 +1992,7 @@
         "name": "DashboardSnapshotItem"
     },
     "0zf": {
-        "label": "DashboardSnapshotItemResult",
+        "label": "Dashboard Snapshot Item Result",
         "name": "DashboardSnapshotResults"
     },
     "3o9": {
@@ -2040,7 +2024,7 @@
         "name": "DataAssessmentValueMetric"
     },
     "0m3": {
-        "label": "DataAssetSemanticGraphEdge Info",
+        "label": "Data Asset Semantic Graph Edge Info",
         "name": "DataAssetSemanticGraphEdge"
     },
     "6D9": {
@@ -2083,10 +2067,6 @@
         "label": "Data Object Data Change Event",
         "name": "DataObjectDataChgEvent"
     },
-    "266": {
-        "label": "Data Object Dependency",
-        "name": "DataObjectDependency"
-    },
     "1e4": {
         "label": "Data Object Metadata Change Event",
         "name": "DataObjectMetadataChgEvent"
@@ -2102,10 +2082,6 @@
     "263": {
         "label": "Remote Org Data Space Mapping",
         "name": "DataRemoteOrgDataSpaceMap"
-    },
-    "18l": {
-        "label": "Search Index",
-        "name": "DataSemanticSearch"
     },
     "8Sj": {
         "label": "Data Source Bundle",
@@ -2179,10 +2155,6 @@
         "label": "Dataflow Node Detail",
         "name": "DataflowNode"
     },
-    "0eN": {
-        "label": "Dataflow Notification",
-        "name": "DataflowNotification"
-    },
     "030": {
         "label": "Dataflow Request",
         "name": "DataflowRequest"
@@ -2190,10 +2162,6 @@
     "7Ce": {
         "label": "Dataflow Trigger",
         "name": "DataflowTrigger"
-    },
-    "9ma": {
-        "label": "Dataflow Trigger Event",
-        "name": "DataflowTriggerEvent"
     },
     "2BM": {
         "label": "Dataflow Trigger Source",
@@ -2298,10 +2266,6 @@
     "1DS": {
         "label": "Digital Signature",
         "name": "DigitalSignature"
-    },
-    "15E": {
-        "label": "Digital Verification",
-        "name": "DigitalVerification"
     },
     "1DW": {
         "label": "Digital Wallet",
@@ -2535,10 +2499,6 @@
         "label": "DatasetFile",
         "name": "EdgeMartDataFile"
     },
-    "163": {
-        "label": "EdgeMart Data Object",
-        "name": "EdgeMartDataObject"
-    },
     "06f": {
         "label": "DatasetShard",
         "name": "EdgeMartDataShard"
@@ -2570,10 +2530,6 @@
     "2mu": {
         "label": "Electronic Media Use",
         "name": "ElectronicMediaUse"
-    },
-    "16M": {
-        "label": "Email Bounce Event",
-        "name": "EmailBounceEvent"
     },
     "06F": {
         "label": "EmailCapture",
@@ -2623,10 +2579,6 @@
         "label": "Email Template",
         "name": "EmailTemplate"
     },
-    "0gm": {
-        "label": "Email Template Monthly Metric",
-        "name": "EmailTemplateMonthlyMetric"
-    },
     "0Lq": {
         "label": "Embedded Service",
         "name": "EmbeddedServiceDetail"
@@ -2650,6 +2602,14 @@
     "0yj": {
         "label": "Employment Benefit Summary",
         "name": "EmpBenefitSummary"
+    },
+    "9gu": {
+        "label": "Employee User Provisioning Process Error",
+        "name": "EmpUserProvisionProcessErr"
+    },
+    "3wO": {
+        "label": "Employee User Provisioning Process",
+        "name": "EmpUserProvisioningProcess"
     },
     "1xR": {
         "label": "Employee Demographic Summary",
@@ -2682,18 +2642,6 @@
     "0n1": {
         "label": "Enablement Measure Object",
         "name": "EnblMeasureObjectDefinition"
-    },
-    "0ei": {
-        "label": "Enablement Program Section",
-        "name": "EnblProgramSection"
-    },
-    "0kk": {
-        "label": "Enablement Program Task Definition",
-        "name": "EnblProgramTaskDefinition"
-    },
-    "0fV": {
-        "label": "Enablement Program Task Progress",
-        "name": "EnblProgramTaskProgress"
     },
     "16U": {
         "label": "Energy Attribute Certificate Credit",
@@ -2731,13 +2679,13 @@
         "label": "Engagement Interface",
         "name": "EngagementInterface"
     },
+    "0Gq": {
+        "label": "Behavior Score",
+        "name": "EngagementScore"
+    },
     "0uB": {
         "label": "Engagement Topic",
         "name": "EngagementTopic"
-    },
-    "19I": {
-        "label": "Generic Email Setting Result",
-        "name": "EngmtChannelTypeSettings"
     },
     "0Rn": {
         "label": "Enhanced Letterhead",
@@ -2852,11 +2800,11 @@
         "name": "ExpressionSet"
     },
     "9QA": {
-        "label": "ExpressionSet Definition",
+        "label": "Expression Set Definition",
         "name": "ExpressionSetDefinition"
     },
     "9QB": {
-        "label": "ExpressionSet Definition Version",
+        "label": "Expression Set Definition Version",
         "name": "ExpressionSetDefinitionVersion"
     },
     "15p": {
@@ -2872,7 +2820,7 @@
         "name": "ExpressionSetVersion"
     },
     "0pz": {
-        "label": "Expression Set View",
+        "label": "Expression Set Template",
         "name": "ExpressionSetView"
     },
     "9QT": {
@@ -2894,6 +2842,10 @@
     "1AH": {
         "label": "External Account Hierarchy",
         "name": "ExternalAccountHierarchy"
+    },
+    "0xI": {
+        "label": "External Client App",
+        "name": "ExternalClientApplication"
     },
     "6Ay": {
         "label": "External Data Source Descriptor",
@@ -2922,6 +2874,38 @@
     "101": {
         "label": "Custom Label",
         "name": "ExternalString"
+    },
+    "13P": {
+        "label": "External Client Application OAuth Consumer",
+        "name": "ExtlClntAppOauthConsumer"
+    },
+    "6Wj": {
+        "label": "External Client App OAuth IP Range",
+        "name": "ExtlClntAppOauthIpRange"
+    },
+    "15g": {
+        "label": "External Client App OAuth Policies Custom Attribute",
+        "name": "ExtlClntAppOauthPlcyAttr"
+    },
+    "0yO": {
+        "label": "External Client App OAuth Policy Config",
+        "name": "ExtlClntAppOauthPlcyCnfg"
+    },
+    "15h": {
+        "label": "External Client App OAuth Settings Custom Attribute",
+        "name": "ExtlClntAppOauthSetAttr"
+    },
+    "3SN": {
+        "label": "External Client Application OAuth Settings",
+        "name": "ExtlClntAppOauthSettings"
+    },
+    "4B5": {
+        "label": "External Client Application Sample Policy Configuration",
+        "name": "ExtlClntAppSamplePlcyCnfg"
+    },
+    "3AG": {
+        "label": "External Client Application Sample Settings",
+        "name": "ExtlClntAppSampleSettings"
     },
     "0d1": {
         "label": "Fulfillment Order Status Changed Event",
@@ -3083,10 +3067,6 @@
         "label": "Flow Version",
         "name": "FlowRecordVersion"
     },
-    "10p": {
-        "label": "Flow Version Occurrence",
-        "name": "FlowRecordVersionOccurrence"
-    },
     "31y": {
         "label": "Flow Interview Stage Relation",
         "name": "FlowStageRelation"
@@ -3147,17 +3127,13 @@
         "label": "Forecasting Filter Condition",
         "name": "ForecastingFilterCondition"
     },
-    "9xx": {
-        "label": "Forecasting Group",
-        "name": "ForecastingGroup"
-    },
-    "9zs": {
-        "label": "Forecasting Group Item",
-        "name": "ForecastingGroupItem"
-    },
     "0G3": {
         "label": "Forecasting Item",
         "name": "ForecastingItem"
+    },
+    "h00": {
+        "label": "Forecasting Item (Historical)",
+        "name": "ForecastingItem__hd"
     },
     "08Q": {
         "label": "Forecasting Owner Adjustment",
@@ -3254,22 +3230,6 @@
     "0a4": {
         "label": "Fulfillment Order Product",
         "name": "FulfillmentOrderLineItem"
-    },
-    "3GD": {
-        "label": "Game Definition",
-        "name": "GameDefinition"
-    },
-    "3GP": {
-        "label": "Game Participant",
-        "name": "GameParticipant"
-    },
-    "3PR": {
-        "label": "Game Participant Reward",
-        "name": "GameParticipantReward"
-    },
-    "3GR": {
-        "label": "Game Reward",
-        "name": "GameReward"
     },
     "2gd": {
         "label": "Generated Document",
@@ -3559,10 +3519,6 @@
         "label": "Insurance Async Bulk Request",
         "name": "InsuranceAsyncBulkRequest"
     },
-    "18c": {
-        "label": "Insurance Async Bulk Request Item",
-        "name": "InsuranceAsyncBulkRequestItem"
-    },
     "0rw": {
         "label": "Insurance Contract",
         "name": "InsuranceContract"
@@ -3667,10 +3623,6 @@
         "label": "Lead Clean Info",
         "name": "LeadCleanInfo"
     },
-    "0mN": {
-        "label": "Lead Daily Metric",
-        "name": "LeadDailyMetric"
-    },
     "0OC": {
         "label": "LeadIQConfiguration",
         "name": "LeadIQConfiguration"
@@ -3678,10 +3630,6 @@
     "0O9": {
         "label": "LeadInsight",
         "name": "LeadInsight"
-    },
-    "0mK": {
-        "label": "Lead Monthly Metric",
-        "name": "LeadMonthlyMetric"
     },
     "02A": {
         "label": "Lead Owner Rule",
@@ -3692,8 +3640,8 @@
         "name": "LeadShare"
     },
     "01J": {
-        "label": "Opportunity Stage",
-        "name": "OpportunityStage"
+        "label": "Lead Status Value",
+        "name": "LeadStatus"
     },
     "7dR": {
         "label": "Learning Content",
@@ -3706,10 +3654,6 @@
     "1aP": {
         "label": "Learning Item Assignment",
         "name": "LearningItemAssignment"
-    },
-    "0uP": {
-        "label": "Learning Item Progress",
-        "name": "LearningItemProgress"
     },
     "116": {
         "label": "Learning Item Submission",
@@ -3748,7 +3692,7 @@
         "name": "LightningExperienceTheme"
     },
     "7MM": {
-        "label": "LightningOnboardingConfig",
+        "label": "Lightning Onboarding Config",
         "name": "LightningOnboardingConfig"
     },
     "1o1": {
@@ -3790,10 +3734,6 @@
     "0XF": {
         "label": "List Email Individual Recipient",
         "name": "ListEmailIndividualRecipient"
-    },
-    "0hG": {
-        "label": "List Email Monthly Metric",
-        "name": "ListEmailMonthlyMetric"
     },
     "0XD": {
         "label": "List Email Recipient Source",
@@ -3923,10 +3863,6 @@
         "label": "Loan Application Title Holder",
         "name": "LoanApplicationTitleHolder"
     },
-    "01j": {
-        "label": "Translation",
-        "name": "LocalizedValue"
-    },
     "131": {
         "label": "Location",
         "name": "Location"
@@ -3950,10 +3886,6 @@
     "0Ya": {
         "label": "Login History",
         "name": "LoginHistory"
-    },
-    "02x": {
-        "label": "Login Hours",
-        "name": "LoginHours"
     },
     "710": {
         "label": "Login IP",
@@ -4004,7 +3936,7 @@
         "name": "LoyaltyPgmMbrAttributeVal"
     },
     "0wv": {
-        "label": "Loyalty Program Member Promotion Eligibility View",
+        "label": "Loyalty Program Member Promotions Eligibility View",
         "name": "LoyaltyPgmMbrPromEligView"
     },
     "2LC": {
@@ -4075,6 +4007,10 @@
         "label": "Loyalty Process Rule",
         "name": "LoyaltyProgramProcessRule"
     },
+    "9PU": {
+        "label": "Loyalty Program Process Rule Version",
+        "name": "LoyaltyProgramProcessRuleVersion"
+    },
     "9NY": {
         "label": "Loyalty Program Setup",
         "name": "LoyaltyProgramSetup"
@@ -4094,6 +4030,10 @@
     "0lt": {
         "label": "Loyalty Tier Group",
         "name": "LoyaltyTierGroup"
+    },
+    "9Qb": {
+        "label": "ML Engagement Event",
+        "name": "MLEngagementEvent"
     },
     "873": {
         "label": "ML Model",
@@ -4211,10 +4151,6 @@
         "label": "Marketing Link",
         "name": "MarketingLink"
     },
-    "q3x": {
-        "label": "Marketing Engagement Score",
-        "name": "Marketing_Engagement_Score__cio"
-    },
     "0Ib": {
         "label": "Matching Information",
         "name": "MatchingInformation"
@@ -4310,10 +4246,6 @@
     "1cN": {
         "label": "Messaging Channel Skill",
         "name": "MessagingChannelSkill"
-    },
-    "0gL": {
-        "label": "Messaging Channel Usage",
-        "name": "MessagingChannelUsage"
     },
     "0Uh": {
         "label": "MessagingConfiguration",
@@ -4412,7 +4344,7 @@
         "name": "MlIntentUtteranceSuggestion"
     },
     "7C1": {
-        "label": "MlQueryObservation",
+        "label": "Metalytics Query Observation",
         "name": "MlQueryObservation"
     },
     "9za": {
@@ -4454,10 +4386,6 @@
     "3Or": {
         "label": "Messaging Channel Language Keyword",
         "name": "MsgChannelLanguageKeyword"
-    },
-    "0od": {
-        "label": "Messaging Channel Usage External Org",
-        "name": "MsgChannelUsageExternalOrg"
     },
     "0lR": {
         "label": "Multiparty Information Authorization Request",
@@ -4519,10 +4447,6 @@
         "label": "Experience Discoverable Login",
         "name": "NetworkDiscoverableLogin"
     },
-    "00V": {
-        "label": "Network EmailTemplate Allow List",
-        "name": "NetworkEmailTmplAllowlist"
-    },
     "0jw": {
         "label": "Network Feed Response Metric",
         "name": "NetworkFeedResponseMetric"
@@ -4571,14 +4495,6 @@
         "label": "Oauth Token",
         "name": "OauthToken"
     },
-    "17z": {
-        "label": "Oauth Token Exchange Handler App",
-        "name": "OauthTokenExchHandlerApp"
-    },
-    "17Z": {
-        "label": "Oauth Token Exchange Handler",
-        "name": "OauthTokenExchangeHandler"
-    },
     "83r": {
         "label": "Object Data Import",
         "name": "ObjectDataImport"
@@ -4586,10 +4502,6 @@
     "1O5": {
         "label": "Object Data Import Reference",
         "name": "ObjectDataImportReference"
-    },
-    "15w": {
-        "label": "Object Metadata Tag",
-        "name": "ObjectMetadataTag"
     },
     "110": {
         "label": "Object Permissions",
@@ -4646,14 +4558,6 @@
     "0nL": {
         "label": "Omni Electronic Signature Template",
         "name": "OmniESignatureTemplate"
-    },
-    "18h": {
-        "label": "Omni External Tracking Definition",
-        "name": "OmniExtTrackingDef"
-    },
-    "18i": {
-        "label": "Omni External Tracking Event Definition",
-        "name": "OmniExtTrackingEventDef"
     },
     "0qr": {
         "label": "Omni Integration Procedure Configuration",
@@ -4719,25 +4623,9 @@
         "label": "Omni Supervisor Configuration Skill",
         "name": "OmniSupervisorConfigSkill"
     },
-    "18L": {
-        "label": "Omni Supervisor Configuration Tab",
-        "name": "OmniSupervisorConfigTab"
-    },
     "0Q4": {
         "label": "Omni Supervisor Configuration for User",
         "name": "OmniSupervisorConfigUser"
-    },
-    "18g": {
-        "label": "Omni Tracking Component Definition",
-        "name": "OmniTrackingComponentDef"
-    },
-    "18k": {
-        "label": "Omni Tracking Event",
-        "name": "OmniTrackingEvent"
-    },
-    "18d": {
-        "label": "Omni Tracking Group",
-        "name": "OmniTrackingGroup"
     },
     "0ko": {
         "label": "Omni UI Card",
@@ -4815,6 +4703,10 @@
         "label": "Opportunity Team Member",
         "name": "OpportunityTeamMember"
     },
+    "h01": {
+        "label": "Opportunity (Historical)",
+        "name": "Opportunity__hd"
+    },
     "10Y": {
         "label": "Opportunity Product Split Type",
         "name": "OpptyLineItemSplitType"
@@ -4859,6 +4751,10 @@
         "label": "Order Product Adjustment Line Item Summary",
         "name": "OrderItemAdjustmentLineSummary"
     },
+    "0ay": {
+        "label": "Order Product Relationship",
+        "name": "OrderItemRelationship"
+    },
     "10u": {
         "label": "Order Product Summary",
         "name": "OrderItemSummary"
@@ -4883,10 +4779,6 @@
         "label": "Order Payment Summary",
         "name": "OrderPaymentSummary"
     },
-    "2Pr": {
-        "label": "Order Payment Summary Reference",
-        "name": "OrderPaymentSummaryReference"
-    },
     "0Fy": {
         "label": "Order Share",
         "name": "OrderShare"
@@ -4910,10 +4802,6 @@
     "0bH": {
         "label": "Order Summary Created Event",
         "name": "OrderSummaryCreatedEvent"
-    },
-    "20s": {
-        "label": "Order Summary Relationship",
-        "name": "OrderSummaryRelationship"
     },
     "0ra": {
         "label": "Order Summary Routing Schedule",
@@ -4967,10 +4855,6 @@
         "label": "OutOfOffice",
         "name": "OutOfOffice"
     },
-    "043": {
-        "label": "OutboundField",
-        "name": "OutboundField"
-    },
     "0Q1": {
         "label": "Outgoing Email",
         "name": "OutgoingEmail"
@@ -5018,6 +4902,18 @@
     "0g8": {
         "label": "Party Consent",
         "name": "PartyConsent"
+    },
+    "139": {
+        "label": "Party Expense",
+        "name": "PartyExpense"
+    },
+    "2m3": {
+        "label": "Party Income",
+        "name": "PartyIncome"
+    },
+    "0xU": {
+        "label": "Party Profile",
+        "name": "PartyProfile"
     },
     "0zl": {
         "label": "Party Role Relationship",
@@ -5311,6 +5207,10 @@
         "label": "Privacy Object Session",
         "name": "PrivacyObjectSession"
     },
+    "8so": {
+        "label": "Privacy Policy",
+        "name": "PrivacyPolicy"
+    },
     "8sk": {
         "label": "Privacy Policy Definition",
         "name": "PrivacyPolicyDefinition"
@@ -5447,10 +5347,6 @@
         "label": "Product Component Group",
         "name": "ProductComponentGroup"
     },
-    "14Y": {
-        "label": "Product Component Group Override",
-        "name": "ProductComponentGrpOverride"
-    },
     "0Gv": {
         "label": "Product Consumed",
         "name": "ProductConsumed"
@@ -5498,10 +5394,6 @@
     "0lL": {
         "label": "Product Quantity Rule",
         "name": "ProductQuantityRule"
-    },
-    "0y4": {
-        "label": "Product Related Component Override",
-        "name": "ProductRelComponentOverride"
     },
     "0dS": {
         "label": "Product Related Component",
@@ -5562,10 +5454,6 @@
     "00e": {
         "label": "Profile",
         "name": "Profile"
-    },
-    "0ez": {
-        "label": "Profile Call Log Quick Action",
-        "name": "ProfileCallLogQuickAction"
     },
     "0Sk": {
         "label": "Skill",
@@ -5871,10 +5759,6 @@
         "label": "Allow URL for Redirects",
         "name": "RedirectWhitelistUrl"
     },
-    "18E": {
-        "label": "Reference Data Load Log",
-        "name": "ReferenceDataLoadLog"
-    },
     "0qL": {
         "label": "Refrigerant Emissions Factor",
         "name": "RefrigerantEmssnFctr"
@@ -5979,18 +5863,6 @@
         "label": "Revenue Transaction Error Log",
         "name": "RevenueTransactionErrorLog"
     },
-    "9Qs": {
-        "label": "Rule Library",
-        "name": "RuleLibrary"
-    },
-    "9Qz": {
-        "label": "Rule Library Definition Version",
-        "name": "RuleLibraryDefVersion"
-    },
-    "9Qv": {
-        "label": "Rule Library Definition",
-        "name": "RuleLibraryDefinition"
-    },
     "0N4": {
         "label": "Rule Territory Association",
         "name": "RuleTerritory2Association"
@@ -6031,10 +5903,6 @@
         "label": "Sales Store Catalog",
         "name": "SalesStoreCatalog"
     },
-    "0mV": {
-        "label": "SalesWorkQueueSettings",
-        "name": "SalesWorkQueueSettings"
-    },
     "0LE": {
         "label": "SAML Single Sign-On Setting",
         "name": "SamlSsoConfig"
@@ -6046,22 +5914,6 @@
     "12j": {
         "label": "Saved Payment Method Event",
         "name": "SavedPaymentMethodEvent"
-    },
-    "18Z": {
-        "label": "Schedule Broadcast Appointment Resource",
-        "name": "ScheduleBrdcstApptResource"
-    },
-    "18U": {
-        "label": "Schedule Broadcast",
-        "name": "ScheduleBroadcast"
-    },
-    "18Y": {
-        "label": "Schedule Broadcast Appointment",
-        "name": "ScheduleBroadcastAppointment"
-    },
-    "18X": {
-        "label": "Schedule Broadcast Territory",
-        "name": "ScheduleBroadcastTerritory"
     },
     "0hA": {
         "label": "Scheduling Constraint",
@@ -6082,14 +5934,6 @@
     "0hm": {
         "label": "Scheduling Rule Parameter",
         "name": "SchedulingRuleParameter"
-    },
-    "19D": {
-        "label": "Scheduling Workspace",
-        "name": "SchedulingWorkspace"
-    },
-    "19E": {
-        "label": "Scheduling Workspace Territory",
-        "name": "SchedulingWorkspaceTerritory"
     },
     "01N": {
         "label": "Custom S-Control",
@@ -6139,10 +5983,6 @@
         "label": "SearchActivity",
         "name": "SearchActivity"
     },
-    "1BG": {
-        "label": "Search Index Job Changed Event",
-        "name": "SearchIndexJobStatusEvent"
-    },
     "4co": {
         "label": "Search Layout",
         "name": "SearchLayout"
@@ -6174,10 +6014,6 @@
     "08p": {
         "label": "Service Appointment",
         "name": "ServiceAppointment"
-    },
-    "17y": {
-        "label": "Service Appointment Attendee",
-        "name": "ServiceAppointmentAttendee"
     },
     "0VR": {
         "label": "Service Appointment Capacity Usage",
@@ -6415,6 +6251,10 @@
         "label": "Entitlement Process",
         "name": "SlaProcess"
     },
+    "10A": {
+        "label": "Slack Application Conversation Event",
+        "name": "SlackAppConversationEvent"
+    },
     "2sn": {
         "label": "Snippet",
         "name": "Snippet"
@@ -6458,10 +6298,6 @@
     "0rt": {
         "label": "Standard Care Fee Agreement",
         "name": "StandardCareFeeAgreement"
-    },
-    "0QO": {
-        "label": "Standard Invocable Action Type",
-        "name": "StandardInvocableActionType"
     },
     "5fy": {
         "label": "Standard Shipping Rate",
@@ -6603,6 +6439,42 @@
         "label": "Service Appointment Scheduling Event",
         "name": "SvcApptSchdEvent"
     },
+    "5rD": {
+        "label": "Service Catalog Category",
+        "name": "SvcCatalogCategory"
+    },
+    "8cd": {
+        "label": "Service Catalog Category Item",
+        "name": "SvcCatalogCategoryItem"
+    },
+    "5JB": {
+        "label": "Service Catalog Fulfillment Flow Item",
+        "name": "SvcCatalogFulfillFlowItem"
+    },
+    "3VT": {
+        "label": "Service Catalog Fulfillment Flow",
+        "name": "SvcCatalogFulfillmentFlow"
+    },
+    "7Fj": {
+        "label": "Service Catalog Item Attribute",
+        "name": "SvcCatalogItemAttribute"
+    },
+    "0j2": {
+        "label": "Service Catalog Item Definition",
+        "name": "SvcCatalogItemDef"
+    },
+    "12p": {
+        "label": "Service Catalog Item Group",
+        "name": "SvcCatalogItemGroup"
+    },
+    "9kS": {
+        "label": "Service Catalog Request Related Item",
+        "name": "SvcCatalogReqRelatedItem"
+    },
+    "946": {
+        "label": "Service Catalog Request",
+        "name": "SvcCatalogRequest"
+    },
     "0sW": {
         "label": "Swarm",
         "name": "Swarm"
@@ -6674,10 +6546,6 @@
     "92r": {
         "label": "Tenant Security Feature",
         "name": "TenantSecurityFeature"
-    },
-    "67A": {
-        "label": "Security Center Guest User Anomaly",
-        "name": "TenantSecurityGuestUserAnomaly"
     },
     "2Em": {
         "label": "Security Center Health Check Baseline Trend",
@@ -6867,10 +6735,6 @@
         "label": "Language Translation",
         "name": "Translation"
     },
-    "01i": {
-        "label": "Translation User",
-        "name": "TranslationUser"
-    },
     "5pL": {
         "label": "Travel Mode",
         "name": "TravelMode"
@@ -6882,10 +6746,6 @@
     "09t": {
         "label": "Ui Formula Rule",
         "name": "UiFormulaRule"
-    },
-    "1a3": {
-        "label": "Unified Activity",
-        "name": "UnifiedActivity"
     },
     "0hE": {
         "label": "Unit of Measure",
@@ -6927,13 +6787,13 @@
         "label": "Custom User Badge",
         "name": "UserCustomBadge"
     },
-    "0mP": {
-        "label": "User Daily Metric",
-        "name": "UserDailyMetric"
+    "0vm": {
+        "label": "Label",
+        "name": "UserDefinedLabel"
     },
-    "0fm": {
-        "label": "User Email Calendar Sync",
-        "name": "UserEmailCalendarSync"
+    "0vn": {
+        "label": "Label Assignment",
+        "name": "UserDefinedLabelAssignment"
     },
     "0UV": {
         "label": "User Email Preferred Person",
@@ -6974,10 +6834,6 @@
     "0N0": {
         "label": "User Membership Sharing Rule",
         "name": "UserMembershipSharingRule"
-    },
-    "0mM": {
-        "label": "User Monthly Metric",
-        "name": "UserMonthlyMetric"
     },
     "051": {
         "label": "User Package License",
@@ -7042,14 +6898,6 @@
     "0R0": {
         "label": "User Territory Association",
         "name": "UserTerritory2Association"
-    },
-    "0WS": {
-        "label": "UserWorkList",
-        "name": "UserWorkList"
-    },
-    "0WT": {
-        "label": "UserWorkListItem",
-        "name": "UserWorkListItem"
     },
     "6yg": {
         "label": "Vehicle Asset Carbon Footprint",
@@ -7120,7 +6968,7 @@
         "name": "VoiceCallOwnerSharingRule"
     },
     "0Ox": {
-        "label": "VoiceCallRecording",
+        "label": "Voice Call Recording",
         "name": "VoiceCallRecording"
     },
     "02c": {
@@ -7187,14 +7035,6 @@
         "label": "Waste Footprint Item",
         "name": "WasteFootprintItem"
     },
-    "0LZ": {
-        "label": "Wave Asset Anchor",
-        "name": "WaveAnnotation"
-    },
-    "0LY": {
-        "label": "Analytics Asset",
-        "name": "WaveAnnotationTarget"
-    },
     "0TN": {
         "label": "Wave Asset Event",
         "name": "WaveAssetEvent"
@@ -7234,10 +7074,6 @@
     "0LP": {
         "label": "Wave Replication Filter Item",
         "name": "WaveReplicationFilterItem"
-    },
-    "2ZC": {
-        "label": "Wave SyncOut",
-        "name": "WaveSyncOut"
     },
     "0Nk": {
         "label": "Analytics Template",
@@ -7459,124 +7295,52 @@
         "label": "Xmd Organization",
         "name": "XmdOrganization"
     },
-    "q01": {
-        "label": "Account Contact",
-        "name": "ssot__AccountContact__dlm"
+    "q0K": {
+        "label": "Bulk Email Message",
+        "name": "ssot__BulkEmailMessage__dlm"
     },
-    "q02": {
-        "label": "Account",
-        "name": "ssot__Account__dlm"
+    "q5N": {
+        "label": "Campaign Member",
+        "name": "ssot__CampaignMember__dlm"
     },
-    "q0a": {
-        "label": "Contact Point Address",
-        "name": "ssot__ContactPointAddress__dlm"
+    "q0N": {
+        "label": "Campaign",
+        "name": "ssot__Campaign__dlm"
     },
-    "q0d": {
-        "label": "Contact Point Email",
-        "name": "ssot__ContactPointEmail__dlm"
+    "q0U": {
+        "label": "Communication Subscription Channel Type",
+        "name": "ssot__CommunicationSubscriptionChannelType__dlm"
     },
-    "q0f": {
-        "label": "Contact Point Phone",
-        "name": "ssot__ContactPointPhone__dlm"
+    "q0X": {
+        "label": "Communication Subscription",
+        "name": "ssot__CommunicationSubscription__dlm"
     },
-    "q1k": {
-        "label": "Individual",
-        "name": "ssot__Individual__dlm"
+    "q0x": {
+        "label": "Digital Content",
+        "name": "ssot__DigitalContent__dlm"
     },
-    "q1o": {
-        "label": "Lead",
-        "name": "ssot__Lead__dlm"
+    "q12": {
+        "label": "Email Engagement",
+        "name": "ssot__EmailEngagement__dlm"
     },
-    "0T8": {
-        "label": "Bot Analytics",
-        "name": "BotAnalytics"
+    "q17": {
+        "label": "Engagement Channel Type",
+        "name": "ssot__EngagementChannelType__dlm"
     },
-    "0uK": {
-        "label": "Broadcast Topic",
-        "name": "BroadcastTopic"
+    "q5T": {
+        "label": "Engagement Channel Usage",
+        "name": "ssot__EngagementChannelUsage__dlm"
     },
-    "0uL": {
-        "label": "Broadcast Topic Collaboration Room",
-        "name": "BroadcastTopicCollabRoom"
+    "q18": {
+        "label": "Engagement Channel",
+        "name": "ssot__EngagementChannel__dlm"
     },
-    "0uM": {
-        "label": "Broadcast Topic User Role",
-        "name": "BroadcastTopicUserRole"
+    "q2Q": {
+        "label": "Market Segment",
+        "name": "ssot__MarketSegment__dlm"
     },
-    "3NA": {
-        "label": "Custom Object Usage By User License Metric",
-        "name": "CustomObjectUserLicenseMetrics"
-    },
-    "0zU": {
-        "label": "Product Related Service Process",
-        "name": "ProductRelatedServiceProcess"
-    },
-    "10A": {
-        "label": "Slack Application Conversation Event",
-        "name": "SlackAppConversationEvent"
-    },
-    "5rD": {
-        "label": "Service Catalog Category",
-        "name": "SvcCatalogCategory"
-    },
-    "8cd": {
-        "label": "Service Catalog Category Item",
-        "name": "SvcCatalogCategoryItem"
-    },
-    "5JB": {
-        "label": "Service Catalog Fulfillment Flow Item",
-        "name": "SvcCatalogFulfillFlowItem"
-    },
-    "3VT": {
-        "label": "Service Catalog Fulfillment Flow",
-        "name": "SvcCatalogFulfillmentFlow"
-    },
-    "7Fj": {
-        "label": "Service Catalog Item Attribute",
-        "name": "SvcCatalogItemAttribute"
-    },
-    "0j2": {
-        "label": "Service Catalog Item Definition",
-        "name": "SvcCatalogItemDef"
-    },
-    "12p": {
-        "label": "Service Catalog Item Group",
-        "name": "SvcCatalogItemGroup"
-    },
-    "9kS": {
-        "label": "Service Catalog Request Related Item",
-        "name": "SvcCatalogReqRelatedItem"
-    },
-    "946": {
-        "label": "Service Catalog Request",
-        "name": "SvcCatalogRequest"
-    },
-    "9aC": {
-        "label": "Analysis",
-        "name": "Analysis"
-    },
-    "1D0": {
-        "label": "Data Kit Deployment Log",
-        "name": "DataKitDeploymentLog"
-    },
-    "h00": {
-        "label": "Forecasting Item (Historical)",
-        "name": "ForecastingItem__hd"
-    },
-    "h01": {
-        "label": "Opportunity (Historical)",
-        "name": "Opportunity__hd"
-    },
-    "0R3": {
-        "label": "Visualization Plug-in",
-        "name": "VisualizationPlugin"
-    },
-    "0R5": {
-        "label": "Visualization Resource",
-        "name": "VisualizationResource"
-    },
-    "0R4": {
-        "label": "Visualization Type",
-        "name": "VisualizationType"
+    "qAB": {
+        "label": "Website Publication",
+        "name": "ssot__WebsitePublication__dlm"
     }
 }
