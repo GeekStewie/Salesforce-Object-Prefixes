@@ -16,3 +16,7 @@ Note: Knowledge Articles have a range of prefixes so if you are using this in an
     "name": "KnowledgeArticleVersion"
 }
 ```
+
+## Thanks
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.paypal.com/paypalme/geekstewie?country.x=GB&locale.x=en_GB)
